@@ -42,6 +42,7 @@ sftp-config.json
 *.docx
 *.pptx
 .env
+response_prompt*.json
 
 # Visual Studio Code
 .vscode/* 
